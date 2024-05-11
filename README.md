@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Unnamalai
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning B.Tech CSBS
   
 
